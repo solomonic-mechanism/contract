@@ -20,10 +20,10 @@ The unique subgame perfect equilibrium of this game is such that in a challenge 
 
 Here is a [side-by-side demo](https://www.youtube.com/watch?v=wK8sN3qE6dk) showing the Naive contract being exploited and the Solomonic contract successfully avoiding attack.
 
-[Tx: Solomonic contract deployment](https://etherscan.io/tx/0xa9252aeb72c5a5e0dcfecfdf25f16ecfc3abcbf7170be664d96766a947ec7a1f)
-[Tx: Naive contract deployment](https://etherscan.io/tx/0x61d5cbaee47ab6bbe6d11563630a7a74f3641cb9ea10097a1649a7f4cc323674)
-[Tx: Solomonic claim](https://etherscan.io/tx/0x8f777efbada242ac5978541dae7a56f7097c2ce2200277b5f0662335d86539e1)
-[Tx: Naive take](https://etherscan.io/tx/0x361e141210548322e938f6fd2fc534ad440e0f157ef05c381d76981ae9d871b6)
+[Tx: Solomonic contract deployment](https://etherscan.io/tx/0xa9252aeb72c5a5e0dcfecfdf25f16ecfc3abcbf7170be664d96766a947ec7a1f)  
+[Tx: Naive contract deployment](https://etherscan.io/tx/0x61d5cbaee47ab6bbe6d11563630a7a74f3641cb9ea10097a1649a7f4cc323674)  
+[Tx: Solomonic claim](https://etherscan.io/tx/0x8f777efbada242ac5978541dae7a56f7097c2ce2200277b5f0662335d86539e1)  
+[Tx: Naive take](https://etherscan.io/tx/0x361e141210548322e938f6fd2fc534ad440e0f157ef05c381d76981ae9d871b6)  
 [Tx: Solomonic withdraw](https://etherscan.io/tx/0x218ffdafc93041341ee5c60aa39600773b00707b9b51e949c3076b8923b370d9)
 
 ## Acknowledgements
