@@ -30,3 +30,7 @@ Here is a [side-by-side demo](https://www.youtube.com/watch?v=wK8sN3qE6dk) showi
 
 Special thanks to Scott Bigelow for his [wonderful video](https://www.youtube.com/watch?v=UZ-NNd6yjFM) introducting the problem and for answering our questions.
 
+## Contact
+
+Please reach out to [solomonic.contract@gmail.com](mailto:solomonic.contract@gmail.com) if you have any questions or comments.
+
