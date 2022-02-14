@@ -1,6 +1,6 @@
 # Solomonic.sol
 
-Solidity implementation of the mechanism described in Gans & Holden (2022).
+Solidity implementation of the mechanism described in Joshua S. Gans & Richard Holden (2022), ["A Solomonic Solution to Ownership Disputes: An Application to Blockchain Front-Running](https://ssrn.com/abstract=4034666)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
